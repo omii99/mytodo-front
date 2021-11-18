@@ -1,0 +1,9 @@
+.ant-menu-item-group-title {
+  padding: 0 !important;
+  color: rgba(26, 51, 83, 0.6);
+  font-size: 0.75rem;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 0 !important;
+}

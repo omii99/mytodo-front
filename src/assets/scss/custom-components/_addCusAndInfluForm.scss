@@ -1,0 +1,73 @@
+.bgImgOfForm {
+  @media (max-width: 1024px) {
+    display: none !important;
+  }
+}
+.breadcrumb-in-header {
+  @media (max-width: 557px) {
+    display: none;
+  }
+}
+.hide-in-mobile {
+  @media (max-width: 557px) {
+    display: none;
+  }
+}
+
+.loss-btn {
+  border-color: #ff4d4f;
+  color: #ff4d4f;
+}
+.loss-btn:hover {
+  background-color: #ff4d4f;
+  color: white;
+}
+
+.loss-btn-active {
+  background-color: #ff4d4f;
+  color: white;
+}
+.loss-btn:active {
+  background-color: #ff4d4f;
+  color: white;
+}
+
+.win-btn {
+  border-color: #39ff14;
+  color: #39ff14;
+}
+.win-btn:active {
+  border-color: #39ff14;
+  color: white;
+}
+.win-btn-active {
+  background-color: #39ff14;
+  color: white;
+}
+.win-btn:hover {
+  background-color: #39ff14;
+  border-color: #39ff14;
+  color: white;
+}
+
+// ********* Sewvandi - custom css for quotation approval details *********
+
+.approve-btn {
+  background-color: #39ff14;
+  color: white;
+}
+
+.reject-btn {
+  background-color: #ff4d4f;
+  color: white;
+}
+
+.r-btn {
+  background-color: #ffffff;
+  color: #ff4d4f;
+}
+
+.a-btn {
+  background-color: #ffffff;
+  color: #39ff14;
+}

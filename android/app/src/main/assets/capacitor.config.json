@@ -1,0 +1,6 @@
+{
+	"appId": "com.mytodo.app",
+	"appName": "mytodo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
